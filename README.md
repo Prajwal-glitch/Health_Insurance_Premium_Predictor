@@ -3,7 +3,7 @@
 An interactive Streamlit app that predicts **health insurance premiums** based on user inputs like age, BMI, smoking status, and medical history using machine learning.
 
 
-## Tech Stack
+## Tools & Technologies
 
 - Python, Streamlit  
 - pandas, numpy, seaborn, matplotlib  
