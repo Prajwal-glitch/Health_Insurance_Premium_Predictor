@@ -12,5 +12,5 @@ An interactive Streamlit app that predicts **health insurance premiums** based o
 ## Setup
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+pip3 install -r requirements.txt
+streamlit run main.py
