@@ -4,6 +4,9 @@ An interactive Streamlit app that predicts **health insurance premiums** based o
 
 Live Demo - https://healthinsurancepremiumpredictor.streamlit.app/
 
+![App Screenshot](./screenshot.png)
+
+
 ## Tools & Technologies
 
 - Python, Streamlit  
