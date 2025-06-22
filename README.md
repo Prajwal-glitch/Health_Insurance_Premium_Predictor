@@ -15,6 +15,8 @@ Live Demo - https://healthinsurancepremiumpredictor.streamlit.app/
 
 ## Setup
 
+Clone the repository and change the directory to downloaded repository. Run the following commands - 
+
 ```bash
 pip3 install -r requirements.txt
 streamlit run main.py
